@@ -9,9 +9,9 @@
 
     <div class="clock">
       <div class="clock-face">
-        <div class="hand hour-hand"></div>
-        <div class="hand min-hand"></div>
-        <div class="hand second-hand"></div>
+        <div class="hand hour-hand">Hour HAND</div>
+        <div class="hand min-hand">Minute HAND</div>
+        <div class="hand second-hand">Second HAND</div>
       </div>
     </div>
 
